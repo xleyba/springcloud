@@ -19,7 +19,7 @@
 	</properties>
 
 	<modules>
-		<module>library</module>
+		<module>eurekaserver</module>
 	</modules>
 
 </project>
